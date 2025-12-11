@@ -26,7 +26,7 @@ const errorEl = document.getElementById("error");
 // WEATHER API DETAILS
 // =====================
 const API_KEY="d13ce74e83e3449ab3e144027250906"
-const BASE_URL="http://api.weatherapi.com/v1/current.json"
+const BASE_URL="https://api.weatherapi.com/v1/current.json"
 // =====================
 // EVENT BUBBLING
 // =====================
